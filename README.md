@@ -40,21 +40,27 @@ Ing. Darwin Omar Alulema Flores
 
 **1.3. INFORMACIÓN GENERAL**
 
-| BASE	|CONDENSADOR|	INDUCTOR |
+<div align="center">
+  
+**INDUCTOR Y CAPACITOR**
+
+| BASE	|CAPACITOR|	INDUCTOR |
 |    :---:   |        :---:           | :---:               |
 |Definición|El condensador almacena energía en forma de campo eléctrico.|Inductor almacena energía en forma de campo magnético.|
 |Calculo de energia|La energía almacenada se calcula en términos de voltaje. es decir ½ CV2|La energía almacenada se calcula en términos de corriente. es decir ½ LI2|
 |Flujo de corriente|	No hay flujo de corriente a través de las placas de condensadores. |	En una corriente inductora pasa a través de la bobina.|
 |Comportamiento en circuito DC|	El condensador actúa como un aislante para el circuito de corriente continua.|	Inductor actúa como un conductor para el circuito de corriente continua.|
 |Relación entre tensión y corriente.|En un circuito de corriente alterna, la tensión conduce la tensión en 90 grados.|En un circuito de corriente alterna, la corriente se retrasa en 90 grados.|
+|Comportamiento de la corriente en el circuito de corriente continua.|	En un circuito de CC cuando el condensador se agrega en serie con una resistencia, la corriente inicialmente se vuelve alta pero luego cae a cero.|En un circuito de CC cuando el inductor se agrega en serie con una resistencia, el valor de la corriente es pequeño y luego aumenta con el tiempo.|
+|Unidad|	Su unidad es Farad.	|Su unidad es Henry.|
+|Los tipos|	Cerámica, electrolítica y tantalio son los tipos de condensadores.	|Inductor acoplado, multicapa, inductor de núcleo cerámico, inductor moldeado son los tipos de inductor.|
+|Cortocircuito|	El condensador actúa como un cortocircuito para la corriente alterna.	|Es equivalente a un cortocircuito a la corriente continua.|
+|Condición de estado estacionario|	El condensador actúa como un circuito abierto a la condición de estado estable en circuitos de CC.	|El inductor se comporta como un cortocircuito a la condición de estado estable en DC.|
+|Resistir al cambio|	El condensador resiste el cambio de voltaje.|	Inductor resiste cambio en corriente.|
+|Aplicaciones|	Condensador electrolítico en fuentes de alimentación de alto voltaje y donde se necesitan valores de alta capacidad.	|Los inductores se utilizan en radio, TV, estrangulaciones, bujías de automóviles, transformadores, etc.|
 
-Comportamiento de la corriente en el circuito de corriente continua.	En un circuito de CC cuando el condensador se agrega en serie con una resistencia, la corriente inicialmente se vuelve alta pero luego cae a cero.	En un circuito de CC cuando el inductor se agrega en serie con una resistencia, el valor de la corriente es pequeño y luego aumenta con el tiempo.
-Unidad	Su unidad es Farad.	Su unidad es Henry.
-Los tipos	Cerámica, electrolítica y tantalio son los tipos de condensadores.	Inductor acoplado, multicapa, inductor de núcleo cerámico, inductor moldeado son los tipos de inductor.
-Cortocircuito	El condensador actúa como un cortocircuito para la corriente alterna.	Es equivalente a un cortocircuito a la corriente continua.
-Condición de estado estacionario	El condensador actúa como un circuito abierto a la condición de estado estable en circuitos de CC.	El inductor se comporta como un cortocircuito a la condición de estado estable en DC.
-Resistir al cambio	El condensador resiste el cambio de voltaje.	Inductor resiste cambio en corriente.
-Aplicaciones	Condensador electrolítico en fuentes de alimentación de alto voltaje y donde se necesitan valores de alta capacidad.	Los inductores se utilizan en radio, TV, estrangulaciones, bujías de automóviles, transformadores, etc.
+</div>
+
 # 2 MARCO TEÓRICO
 
 <div align="center">
