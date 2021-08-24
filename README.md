@@ -46,7 +46,6 @@ Ing. Darwin Omar Alulema Flores
 |Calculo de energia|La energía almacenada se calcula en términos de voltaje. es decir ½ CV2|La energía almacenada se calcula en términos de corriente. es decir ½ LI2|
 |Flujo de corriente|	No hay flujo de corriente a través de las placas de condensadores. |	En una corriente inductora pasa a través de la bobina.|
 |Comportamiento en circuito DC|	El condensador actúa como un aislante para el circuito de corriente continua.|	Inductor actúa como un conductor para el circuito de corriente continua.|
-
 |Relación entre tensión y corriente.|En un circuito de corriente alterna, la tensión conduce la tensión en 90 grados.|En un circuito de corriente alterna, la corriente se retrasa en 90 grados.|
 
 Comportamiento de la corriente en el circuito de corriente continua.	En un circuito de CC cuando el condensador se agrega en serie con una resistencia, la corriente inicialmente se vuelve alta pero luego cae a cero.	En un circuito de CC cuando el inductor se agrega en serie con una resistencia, el valor de la corriente es pequeño y luego aumenta con el tiempo.
