@@ -30,8 +30,6 @@ Ing. Darwin Omar Alulema Flores
 
 1.1.1. Objetivo general
 
-
-
 1.1.2. Objetivos específicoso
 
 
