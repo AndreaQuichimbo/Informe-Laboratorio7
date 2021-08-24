@@ -42,6 +42,36 @@ Ing. Darwin Omar Alulema Flores
   
 **INDUCTOR Y CAPACITOR**
 
+</div>
+
+**Inductores**
+
+Un inductor o bobina es un componente que almacena energía en forma de campo magnético.
+
+**Usos y aplicaciones del inductor**
+
+- Bobinado de electroimanes con CD.
+- Los transformadores se utilizan principalmente para convertir una tensión a otra.
+- Los motores de CD poseen inductores para generar los campos magnéticos necesarios para funcionar.
+- Integran circuitos de filtrado para salidas de fuentes rectificadoras tanto pequeñas como de potencia.
+- Inductores y capacitores se utilizan en circuitos de audio para filtrar o amplificar frecuencias específicas.
+- En las fuentes de alimentación también se usan bobinas para filtrar componentes de corriente alterna, y solo obtener corriente continua en la salida.
+- Se utilizan como filtros de línea telefónica, para eliminar las señales de alta frecuencia de banda ancha y se colocan en los extremos de los cables de señal para reducir el ruido.
+
+**Capacitor**
+  
+Un condensador o capacitor es un dispositivo utilizado en electricidad y electrónica, capaz de almacenar energía sustentando un campo eléctrico. Aunque desde el punto de vista físico un condensador no almacena carga ni corriente eléctrica, sino simplemente energía mecánica latente; al ser introducido en un circuito se comporta en la práctica como capaz de almacenar la energía eléctrica que recibe durante la carga, a la vez que la cede de igual forma durante la descarga. Un condensador electrolítico es un tipo de condensador que usa un líquido iónico conductor como una de sus placas. Típicamente con más capacidad por unidad de volumen que otros tipos de condensadores, son valiosos en circuitos eléctricos con relativa alta corriente y baja frecuencia. Condensador de alta capacidad Los condensadores electroquímicos de doble capa, también conocidos como supercondensadores, supercapacitores, pseudocapacitores, ultracondensadores, ultracapacitores o simplemente EDLC por sus siglas en inglés, son dispositivos electroquímicos capaces de sustentar una densidad de energía inusualmente alta en comparación con los condensadores normales, presentando una capacitancia miles de veces mayor que la de los electrolíticos de alta capacidad.
+
+**Usos y Aplicaciones del capacitor**
+ 
+- Arranque de motores. 
+- Fuentes de alimentación.
+- Circuitos temporizadores.
+- Filtros en circuitos de radio y TV.
+- También son muy usados en los circuitos que deben conducir corriente alterna pero no corriente continua.
+- Los condensadores electrolíticos pueden tener mucha capacitancia, permitiendo la construcción de filtros de muy baja frecuencia.
+- En el caso de los filtros de alimentadores de corriente se usan para almacenar la carga, y moderar el voltaje de salida y las fluctuaciones de corriente en la salida rectificada.
+
 | BASE	|CAPACITOR|	INDUCTOR |
 |    :---:   |        :---:           | :---:               |
 |Definición|El condensador almacena energía en forma de campo eléctrico.|Inductor almacena energía en forma de campo magnético.|
