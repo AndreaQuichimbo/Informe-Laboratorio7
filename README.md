@@ -42,8 +42,6 @@ Ing. Darwin Omar Alulema Flores
 
 
 
-
-
 # 2 MARCO TEÓRICO
 
 <div align="center">
