@@ -40,7 +40,12 @@ Ing. Darwin Omar Alulema Flores
 
 **1.3. INFORMACIÓN GENERAL**
 
-
+| BASE	|CONDENSADOR|	INDUCTOR |
+|    :---:   |        :---:           | :---:               |
+|Definición|El condensador almacena energía en forma de campo eléctrico.|Inductor almacena energía en forma de campo magnético.|
+|Calculo de energia|La energía almacenada se calcula en términos de voltaje. es decir
+½ CV2|La energía almacenada se calcula en términos de corriente. es decir
+½ LI2|
 
 # 2 MARCO TEÓRICO
 
