@@ -148,15 +148,27 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 **1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
 
+Dentro de un circuito la bobina y el capacitor en corriente continua pasan por dos fases conocidas como fase de transición y fase de continua, fase de estabilización se produce fenómenos que ayudan a describir curvas de carga del capacitor a una fase continua, la corriente en su fase de intensidad atraviesa el capacitor es igual a cero. los inductores al ser la corriente constante la caída de tensión sobre ellos es igual a cero, por lo que lo interpretamos como simplemente un cable en el circuito.
+
 **2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?**
+
+El comportamiento de capacitores en corriente alterna depende de funciones que describan su comportamiento dentro del intervalo de tiempo definido. 𝑖(𝑡) = 𝐶 (𝑑𝑣(𝑡) 𝑑/𝑣). El capacitor representa como un elemento pasivo. Al existir una variación de la corriente en un circuito de corriente alterna es puede conocer los valores que tomaran las corrientes y la caída de tensión por medio de las funciones que describan a estas variables dentro del intervalo de tiempo definido. 𝑖(𝑡) = 𝐶 (𝑑𝑣(𝑡)/ 𝑑𝑣)
 
 **3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?**
 
+En el voltaje Vo dentro de lo circuitos analizados varía en función de la impedancia, es decir su menor o mayor al valor total de impedancia, 𝑍 = 𝑅 + 𝑗X.
+
 **4.- ¿Qué son los valores eficaces de voltaje y corriente?**
+
+Valores de voltaje y corriente son funciones oscilatorias descrita en función de seno y el coseno representadas por su amplitud y frecuencia, dichos valores aumentan al calcular la potencia.
 
 # 5 VIDEO 
 
 # 6 CONCLUSIONES 
+
+-	El módulo implementado en el simulador Multisim, se pueda simular el comportamiento de las ondas de voltajes o ya sea de señales en las diferentes configuraciones de circuitos que se analiza en dicho caso.
+
+-	Se concluyo que a medida que la señal de frecuencia va en aumento o en deceso, los valores de la constante de tiempo y del voltaje máximo varían y todo esto depende de la configuración del circuito, ya que la impedancia del capacitor o inductor está en función de la frecuencia, El tiempo es una constante indicando el tiempo en que se carga totalmente el capacitor. 
 
 # 7 BIBLIOGRAFÍAS
 
