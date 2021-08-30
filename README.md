@@ -164,6 +164,8 @@ de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
 ![10](https://user-images.githubusercontent.com/84587172/131399272-ac1dc29b-e593-4090-a4d8-3da781b7eb9f.png)
 
+![11](https://user-images.githubusercontent.com/84587172/131399324-9d40b697-3186-4f7d-a7e2-d2b3bfdf93b7.png)
+  
   
 **c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
