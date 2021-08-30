@@ -157,7 +157,14 @@ Un condensador o capacitor es un dispositivo utilizado en electricidad y electr�
   
 **b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+  
+![8](https://user-images.githubusercontent.com/84587172/131399259-d24761bd-8e05-4c22-a54a-88fb88d4bb9d.png)
 
+![9](https://user-images.githubusercontent.com/84587172/131399262-8eabb68d-2ec1-4298-9653-e840dc5a55dc.png)
+
+![10](https://user-images.githubusercontent.com/84587172/131399272-ac1dc29b-e593-4090-a4d8-3da781b7eb9f.png)
+
+  
 **c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
