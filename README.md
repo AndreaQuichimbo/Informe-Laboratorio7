@@ -136,10 +136,18 @@ Un condensador o capacitor es un dispositivo utilizado en electricidad y electr√
   
 ![image](https://user-images.githubusercontent.com/84430867/130623626-5988844a-0064-4ff3-b36f-d32ea3009f16.png)
 
-</div>
+</div
+ 
 
 **a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
 
+![1](https://user-images.githubusercontent.com/84587172/131398962-983fa139-4056-46ba-bc37-4d6d7dfc7014.png)
+
+  ![2](https://user-images.githubusercontent.com/84587172/131398965-ad6f4d98-0157-46d0-9780-2602256c71c2.png)
+
+![3](https://user-images.githubusercontent.com/84587172/131398975-05191b5c-6e1e-4211-8141-a969487dbcb8.png)
+  
+  
 **b. Utilice un mult√≠metro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
