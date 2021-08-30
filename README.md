@@ -141,12 +141,19 @@ Un condensador o capacitor es un dispositivo utilizado en electricidad y electr√
 
 **a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
 
-![1](https://user-images.githubusercontent.com/84587172/131398962-983fa139-4056-46ba-bc37-4d6d7dfc7014.png)
+![1](https://user-images.githubusercontent.com/84587172/131399089-419c269d-8859-4e80-a8db-326792320a2e.png)
 
-  ![2](https://user-images.githubusercontent.com/84587172/131398965-ad6f4d98-0157-46d0-9780-2602256c71c2.png)
-
+![2](https://user-images.githubusercontent.com/84587172/131399102-3f722abe-2d67-4c70-a65c-e9a97ae04035.png)
+    
 ![3](https://user-images.githubusercontent.com/84587172/131398975-05191b5c-6e1e-4211-8141-a969487dbcb8.png)
-  
+
+![4](https://user-images.githubusercontent.com/84587172/131399032-f4e7d703-0ee2-4059-b36e-262222aaeb5f.png)
+
+![5](https://user-images.githubusercontent.com/84587172/131399041-32a5c6d7-ebb9-4153-af89-a91b2b515e03.png)
+
+![6](https://user-images.githubusercontent.com/84587172/131399118-2334335e-2bae-42d3-a964-23370aa10437.png)
+
+![7](https://user-images.githubusercontent.com/84587172/131399127-4d53fef0-7c51-4dbd-9826-0ea2d9f8e2cb.png)  
   
 **b. Utilice un mult√≠metro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
