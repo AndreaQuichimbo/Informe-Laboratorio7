@@ -170,6 +170,13 @@ de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 **c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
+![12](https://user-images.githubusercontent.com/84587172/131399459-dd342c0f-bcd3-445a-8d89-3bac8e4f857a.png)
+
+![13](https://user-images.githubusercontent.com/84587172/131399489-cb982e6d-11af-4fb4-8f2a-82325182ab27.png)
+
+![14](https://user-images.githubusercontent.com/84587172/131399496-f5f080bd-9571-4b5d-badb-67b55d3df029.png)
+  
+
 **4.6 Análisis de resultados**
 
 **1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.**
