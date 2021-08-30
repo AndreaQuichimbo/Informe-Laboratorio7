@@ -191,6 +191,8 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
 **1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.**
 
+![tabla](https://user-images.githubusercontent.com/84587172/131404703-db3c8601-1e9e-4f2a-a6a3-9240c9c7b335.png)
+
 **4.7 Preguntas**
 
 **1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
