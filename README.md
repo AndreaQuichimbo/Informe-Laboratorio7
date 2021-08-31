@@ -30,15 +30,16 @@ Ing. Darwin Omar Alulema Flores
 
 1.1.1. Objetivo general
 
-Conocer el principio de funcionamiento y como están formados los capacitares e inductores, definir los conceptos más importantes que definen a un inductor y capacitor, y presentarlos en el uso de circuitos eléctricos.
+- Conocer el principio de funcionamiento y como están formados los capacitares e inductores, definir los conceptos más importantes que definen a un inductor y capacitor, y presentarlos en el uso de circuitos eléctricos.
 
 1.1.2. Objetivos específicoso
 
+- Reforzar los conceptos de voltaje, corriente, resistencia, inductancia y capacitancia.
+- Conocer el principio de funcionamiento y como están formados los capacitares e inductores.
+- Analizar el comportamiento de los voltajes y corrientes con la fuente de frecuencia variable, aplicando cambios de frecuencia.
+- Realizar una tabla donde se pueda apreciar los resultados obtenidos.
 
-**1.2. REQUISITOS PREVIOS**
-
-
-**1.3. INFORMACIÓN GENERAL**
+**1.2. INFORMACIÓN GENERAL**
 
 <div align="center">
   
