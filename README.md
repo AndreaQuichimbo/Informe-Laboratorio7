@@ -133,6 +133,72 @@ Un condensador o capacitor es un dispositivo utilizado en electricidad y electr√
 
 </div>
 
+1.- Seleccionamos los materiales con los cuales realizaremos la pr√°ctica de acuerdo a los circuitos planteados.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131436213-907134c5-1538-4589-bd1d-84643812a616.png)
+
+</div>
+
+2.- Construya el circuito mostrado en la Figura 1**
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131436306-e5dcfca7-96cd-4280-baa0-e50a1b29f534.png)
+
+</div>
+
+**a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
+
+Para 0 Hz
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131436649-29bed6f8-9e50-4e4c-bfc1-a6b155f81967.png)
+
+ </div>
+
+Para 10 Hz
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/131436637-3b0edbe2-a71b-42e9-919a-e3aa37cdab84.png)
+
+ </div>
+ 
+Para 50 Hz
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/131436748-efcca21c-b476-4b9b-b405-fec3e60eaa66.png)
+
+ </div>
+
+Para 100 Hz
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131436788-e36fb859-cb85-464e-88c2-b3d648019417.png)
+  
+ </div>
+ 
+ Para 500 Hz
+ 
+ <div align="center">
+  
+ ![image](https://user-images.githubusercontent.com/84587293/131436950-9c5eac36-f9a5-4c09-b92f-e4cd59c92697.png)
+
+ </div>
+ 
+ Para 1000 Hz
+ 
+ <div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131436992-200bf221-f88d-40ae-a10c-b3abf9d84781.png)
+  
+</div>
+
 **2.- Construya el circuito mostrado en la Figura 2**
 
 <div align="center">
