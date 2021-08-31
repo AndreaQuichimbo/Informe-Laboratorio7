@@ -199,6 +199,36 @@ Para 100 Hz
   
 </div>
 
+**b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+
+**c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+
+Para 0 Hz
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131444924-c103d884-c5dc-4da3-85fd-38b3253bb4b1.png)
+
+</div>
+
+Para 10 Hz
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131446935-0f5a5528-ced4-4d28-999c-deb016ab96a3.png)
+  
+</div>  
+  
+Para 50 Hz 
+
+<div align="center">  
+  
+![image](https://user-images.githubusercontent.com/84587293/131446430-902b333b-11f7-4ed0-9388-a58a39054ecc.png)
+
+</div>
+
+
+
 **2.- Construya el circuito mostrado en la Figura 2**
 
 <div align="center">
