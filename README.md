@@ -94,6 +94,8 @@ Un condensador o capacitor es un dispositivo utilizado en electricidad y electr√
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/131427951-2136c219-2222-417a-9b6f-52b9c1d5fbc8.png)
+
+![image](https://user-images.githubusercontent.com/84587172/131428663-a679e27f-f2fd-4d2d-bb8b-0f2e600750c0.png)
   
 </div>
 
