@@ -315,7 +315,28 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
 **1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.**
 
+**Circuito 1**
+
+<div align="center">
+ 
+|**FRECUENCIA (Hz)**|       **VALOR PICO (V) Vo**      | **VOLTAJE Vo (V)**      | **CORRIENTE (mA)**      |
+|    :---:   |      :---:       |  :---:   |  :---:  |
+|      0     |       6.15       |   4.821  |  0.060  |
+|     10     |       9.91       |  7.511   |  0.008  |
+|     50     |       8.45       |  6.152   |  0.036  |
+|    100     |       6.21       |  4.826   |  0.058  |
+|    500     |       1.55       |  1.643   |  0.1099 |
+|    1000    |       0.743      |  0.821   |  0.1051 |
+
+</div>
+
+**Circuito 2**
+  
+<div align="center">
+  
 ![tabla](https://user-images.githubusercontent.com/84587172/131404703-db3c8601-1e9e-4f2a-a6a3-9240c9c7b335.png)
+  
+</div>
 
 **4.7 Preguntas**
 
