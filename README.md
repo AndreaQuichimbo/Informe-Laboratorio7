@@ -209,7 +209,7 @@ Para 0 Hz
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84587293/131444924-c103d884-c5dc-4da3-85fd-38b3253bb4b1.png)
+![image](https://user-images.githubusercontent.com/84587293/131533651-e16becdf-3ad8-4c9a-b289-90ba9bd2e5cf.png)
 
 </div>
 
@@ -225,11 +225,33 @@ Para 50 Hz
 
 <div align="center">  
   
-![image](https://user-images.githubusercontent.com/84587293/131446430-902b333b-11f7-4ed0-9388-a58a39054ecc.png)
+![image](https://user-images.githubusercontent.com/84587293/131533677-d8113ebd-4c1d-4006-8717-e398b698d33f.png)
 
 </div>
 
+Para 100 Hz
 
+<div align="center"> 
+  
+![image](https://user-images.githubusercontent.com/84587293/131533750-297c6edd-7c44-4eba-8ae5-2e1c630f83f2.png)
+
+</div>
+
+Para 500 Hz
+
+<div align="center"> 
+  
+![image](https://user-images.githubusercontent.com/84587293/131533869-168eed34-3d1e-43f9-8f99-38013f25c24f.png)
+
+ </div>
+ 
+ Para 1000 Hz
+ 
+<div align="center"> 
+  
+![image](https://user-images.githubusercontent.com/84587293/131533959-14bd842d-78e7-4bc3-84c8-82490a14d1d6.png)
+
+ </div>  
 
 **2.- Construya el circuito mostrado en la Figura 2**
 
