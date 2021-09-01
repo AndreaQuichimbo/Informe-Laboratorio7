@@ -358,6 +358,8 @@ Valores de voltaje y corriente son funciones oscilatorias descrita en función d
 
 # 5 VIDEO 
 
+https://youtu.be/9wlw9b4MMGI
+
 # 6 CONCLUSIONES 
 
 -	El módulo implementado en el simulador Multisim, se pueda simular el comportamiento de las ondas de voltajes o ya sea de señales en las diferentes configuraciones de circuitos que se analiza en dicho caso.
